@@ -1,3 +1,7 @@
+# Calendar App
+Aplicación realizada en React (en su versión 18) para la creación de eventos de calendario.
+Uso de componentes funcionales (Functional Components), hooks propios de React y custom hooks.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
